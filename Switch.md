@@ -14,6 +14,9 @@
   - [ ] `login` (set Telnet/SSH password)
 - [ ] `service password-encryption` (encrypt passwords)
 
+## Password Encryption (Executed from global configuration mode):
+- [ ] `service password-encryption` (enable password encryption)
+
 ## VLAN Configuration (Executed from global configuration mode):
 - [ ] `vlan [vlan_number]` (create VLAN)
 - [ ] `name [vlan_name]` (assign VLAN name)
