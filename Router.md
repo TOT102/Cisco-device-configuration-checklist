@@ -32,3 +32,6 @@
   - [ ] `default-router [default gateway]` 
   - [ ] `dns-server [DNS server]` 
 
+## Different show commands
+- [ ] `do show ip route` (shows routing table)
+
