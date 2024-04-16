@@ -22,6 +22,9 @@
   - [ ] `ip address [ip address] [subnet mask]` 
   - [ ] `description [description]` (set interface description)
 
+## Static Routing Configuration (Executed from global configuration mode):
+- [ ] `ip route [end network] [subnet mask] [middle network]`
+
 ## DHCP Configuration (Executed from global configuration mode):
 - [ ] `ip dhcp excluded-address [start IP] [end IP]`
 - [ ] `ip dhcp pool [pool name]` 
